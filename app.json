@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "kamono",
+    "slug": "kamono",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "kamono"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677577829315",
+    "project_id": "kamono-d09aa",
+    "storage_bucket": "kamono-d09aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677577829315:android:3e4fa2e8a9e948e5fb2b76",
+        "android_client_info": {
+          "package_name": "com.kamono"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677577829315-lvpqg79fhgu7b76inlckchu75att1a2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTqQNkiWsu5tV2DUcS8poCvi0Pj-p5ZD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677577829315-lvpqg79fhgu7b76inlckchu75att1a2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
